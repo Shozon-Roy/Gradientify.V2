@@ -2,6 +2,13 @@
 
 **Gradientify.V2 - Mesh Gradient Generator** is a tool for creating complex gradients for your web projects. It allows you to generate beautiful gradients, ideal for web design, presentations, and social media projects.
 
+---
+## 🎨 Preview
+
+![Screenshot of Mesh Gradient Generator ](#)
+
+
+---
 ## Features
 
 - **Gradient Preview**: View your gradient in real time.
