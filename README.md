@@ -8,6 +8,11 @@
 - **Generate Palette**: Automatically create a new gradient palette.
 - **Refresh Functionality**: Regenerate a new gradient design.
 - **HSLA Color Codes**: Provides HSLA color codes to help you customize gradients.
+- - **Refresh**: Generate a fresh gradient for the display
+   - **Save as Image**: Export your gradient in multiple formats:
+     - PNG (with transparency support)
+     - JPG (optimized for web use)
+     - SVG (scalable vector format)
 - **Copy CSS Code**: Easily copy the CSS code for the displayed gradient and use it in your project.
 - **Responsive Design**: Optimized for use across both desktop and mobile devices.
 
@@ -27,6 +32,7 @@
 3. You can use the following options:
    - **Generate Palette**: Create a new random gradient palette.
    - **Refresh**: Generate a fresh gradient for the display.
+   - - **Multiple Export Formats**: Save your gradients as PNG, JPG, or SVG
    - **Copy CSS Code**: Copy the CSS gradient code for immediate use.
 4. Use the provided HSLA values for further gradient customization.
 
