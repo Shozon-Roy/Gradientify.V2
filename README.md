@@ -5,7 +5,7 @@
 ---
 ## 🎨 Preview
 
-![Screenshot of Mesh Gradient Generator ](#)
+![Screenshot of Mesh Gradient Generator ](https://raw.githubusercontent.com/Shozon-Roy/Gradientify.V2/refs/heads/main/20250830_181517.jpg)
 
 
 ---
