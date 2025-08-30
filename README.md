@@ -1,6 +1,6 @@
-# Gradientify - Mesh Gradient Generator
+# Gradientify.V2 - Mesh Gradient Generator
 
-**Gradientify - Mesh Gradient Generator** is a tool for creating complex gradients for your web projects. It allows you to generate beautiful gradients, ideal for web design, presentations, and social media projects.
+**Gradientify.V2 - Mesh Gradient Generator** is a tool for creating complex gradients for your web projects. It allows you to generate beautiful gradients, ideal for web design, presentations, and social media projects.
 
 ## Features
 
@@ -37,7 +37,7 @@
 
 ## Live Demo
 You can see a live demo of the **Gradientify - Mesh Gradient Generator** here:
-[Live Demo](https://shozon-roy.github.io/Mesh-Gradient-Generator/)
+[Live Demo](#)
 
 ## Feedback
 
@@ -45,4 +45,4 @@ For any feedback, bug reports, or feature requests, please submit an issue in th
 
 ---
 
-Thank you for using the **Gradientify - Mesh Gradient Generator**!
+Thank you for using the **Gradientify.V2 - Mesh Gradient Generator**!
